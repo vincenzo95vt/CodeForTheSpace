@@ -1,8 +1,1 @@
-This is a landing page
-the second line
-
-<<<<<<< HEAD
-=======
-
-
-
+primera linea
